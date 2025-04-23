@@ -1,1 +1,1 @@
-![Visitor Count](https : //profile-counter.glitch.me/solaris-soft/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/solaris-soft/count.svg)
