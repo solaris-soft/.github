@@ -31,20 +31,16 @@ Here are some of our key projects:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-org&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solaris-soft&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-org&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solaris-soft&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Us
 
-- **Email:** [email protected]
+- **Email:** admin@solaris.software
 - **General Enquiries:** +61 432 258 128
 - **Technical Support:** +61 415 267 117
 
 Feel free to reach out to us for any inquiries or support.
-
----
-
-*This README is dynamically generated to showcase our latest projects and statistics.*
