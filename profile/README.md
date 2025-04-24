@@ -1,9 +1,6 @@
 # 🌞 Solaris Software
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsolaris.software)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-org/your-repo)
-![GitHub issues](https://img.shields.io/github/issues/your-org/your-repo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-org/your-repo)
 
 Welcome to **Solaris Software** – where we blend business acumen, psychological insights, and technological expertise to craft people-first software solutions.
 
