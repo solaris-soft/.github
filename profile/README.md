@@ -1,6 +1,7 @@
 # 🌞 Solaris Software
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsolaris.software)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=solaris-soft&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/solaris-soft)
 
 Welcome to **Solaris Software** – where we blend business acumen, psychological insights, and technological expertise to craft people-first software solutions.
 
