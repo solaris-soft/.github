@@ -21,17 +21,7 @@ We help refine your message and build a clear, memorable digital presence that c
 
 ## 🚀 Projects
 
-Here are some of our key projects:
-
-- [Project Alpha](https://github.com/your-org/project-alpha): A comprehensive solution for managing customer relationships.
-- [Project Beta](https://github.com/your-org/project-beta): An innovative platform for real-time data analytics.
-- [Project Gamma](https://github.com/your-org/project-gamma): A user-friendly e-commerce platform for small businesses.
-
----
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solaris-soft&layout=compact&theme=radical)
+TBA
 
 
 ---
