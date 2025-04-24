@@ -1,7 +1,6 @@
 # 🌞 Solaris Software
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsolaris.software)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=joshuamURDt&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/solaris-soft)
 
 Welcome to **Solaris Software** – where we blend business acumen, psychological insights, and technological expertise to craft people-first software solutions.
 
@@ -32,9 +31,8 @@ Here are some of our key projects:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solaris-soft&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solaris-soft&layout=compact&theme=radical)
+
 
 ---
 
